@@ -453,7 +453,7 @@ __webpack_require__.r(__webpack_exports__);
 class CoursedetailsService {
     constructor(http) {
         this.http = http;
-        this._url = "/assets/data/courses.json";
+        this._url = "assets/data/courses.json";
     }
     getCourses() {
         return this.http.get(this._url);
