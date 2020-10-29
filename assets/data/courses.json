@@ -1,0 +1,8 @@
+[
+    {"subject": "French", "code": 101, "college": "UCC"},
+    {"subject": "Gaeilge", "code": 102, "college": "UCD"},
+    {"subject": "Physics", "code": 103, "college": "TCD"},
+    {"subject": "Maths", "code": 104, "college": "CIT"},
+    {"subject": "Tech", "code": 105, "college": "NUIG"}
+    
+   ]
